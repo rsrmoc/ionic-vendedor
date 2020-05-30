@@ -6,9 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./lista.component.scss'],
 })
 export class ListaComponent implements OnInit {
-
+  data: any;
   constructor() { }
 
   ngOnInit() {}
+
+ 
 
 }
